@@ -12,6 +12,12 @@ In order to run the code on your machine:
 8) Set the template for CriticalShipDamage to "P_Fire"
 9) Set the template for PlayerDead to "P_Explosion"
 
+When running, only run either in "Selected Viewport" mode or "New Editor Window (PIE)"
+Recommended on slower machines:
+  1) Under settings:
+  2) Change engine scaleability settings to medium or low
+  3) Change "effects" under this menu to epic
+
 Controls:
   W/A - move forward and back
   A/D - rotate boat counter clockwise and clockwise
